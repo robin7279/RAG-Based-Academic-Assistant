@@ -1,0 +1,14 @@
+langchain[groq]
+langchain-huggingface
+langchain-community
+langgraph
+langchain
+python-dotenv
+pypdf
+faiss-cpu
+langchain-groq
+streamlit
+fastapi
+uvicorn
+requests
+pydantic
