@@ -16,8 +16,7 @@ Make sure you have the following in your `requirements.txt`:
 
 
 ## 📂 Folder Structure
-
-📁 RAG-Academic-Assistant/
+## 📁 RAG-Academic-Assistant/
 ├── 📂 books/                    # Folder to store academic PDFs
 ├── 📂 vectorstore/              # Saved FAISS vector database
 ├── 📂 .streamlit/               # Streamlit config (optional)
