@@ -15,18 +15,6 @@ It built with **Streamlit**, **FastAPI**, and **LangGraph**, powered by **local 
 Make sure you have the following in your `requirements.txt`:
 
 
-## 📂 Folder Structure
-## 📁 RAG-Academic-Assistant/
-├── 📂 books/                    # Folder to store academic PDFs
-├── 📂 vectorstore/              # Saved FAISS vector database
-├── 📂 .streamlit/               # Streamlit config (optional)
-├── 📄 main.py                   # Entry point (FastAPI + Streamlit UI)
-├── 📄 llm_handler.py            # LLM logic, retrieval, and graph setup
-├── 📄 knowledge_base.py         # PDF loading, splitting, embedding
-├── 📄 requirements.txt          # Python dependencies
-├── 📄 .env                      # Environment variables (e.g., GROQ_API_KEY)
-└── 📄 README.md                 # Project documentation
-
 
 ## ⚙️ Usage
 
